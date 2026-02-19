@@ -1,0 +1,27 @@
+What I prompted:
+what is wrong with my americanSide class?
+----------------------------------------------------------------------
+What response I recieved:
+the brackets are the problem, some are not closed
+----------------------------------------------------------------------
+
+What I prompted:
+why are my images not loading?
+----------------------------------------------------------------------
+What response I recieved:
+check manage assets
+----------------------------------------------------------------------
+
+What I prompted:
+for code.org is the amount of kb in an image a problem
+----------------------------------------------------------------------
+What response I recieved:
+yes, if it goes over 100-200 then there might be problems
+----------------------------------------------------------------------
+
+What I prompted:
+Why is my code not working after I added a playSound function?
+----------------------------------------------------------------------
+What response I recieved:
+Remove the boolean in the parameters
+----------------------------------------------------------------------
